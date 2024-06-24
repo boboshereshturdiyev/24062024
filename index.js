@@ -13,7 +13,8 @@ bot.on('message', async msg=>{
     const chatId = msg.chat.id;
     if (text==='/owner'){
         await bot.sendSticker(chatId,'https://tlgrm.ru/_/stickers/ea5/382/ea53826d-c192-376a-b766-e5abc535f1c9/7.webp')
-        return bot.sendMessage(chatId,'Bot egasi @Eshturdiyev')
+        return bot.sendMessage(chatId,'Bot egasi @Eshturdiyev'),
+            bot.sendDocument(chatId,'1212.pptx')
     }
     if (text ==='/start'){
         return  bot.sendMessage(chatId, `Assalomu alaykum ${msg.from.first_name}. Bizning botga hush kelibsiz! \n Iltimos tilni tanlang👇`);
