@@ -1,9 +1,8 @@
-const TelegraamApi = require('node-telegram-bot-api');
+const TelegramApi = require('node-telegram-bot-api');
 
-const token = '7396784125:AAF2boyjnW91mafJxx-rQYEQZajcobpnj8U'
+const token = '7257381120:AAH06cVXskRvoeMs5aA0oh_mpIUsB1Vffoo';
 
-const bot = new TelegraamApi(token,{polling:true})
-
+const bot = new TelegramApi(token,{polling:true});
 
  bot.setMyCommands([
      {command:'/start',description:'Start'},
@@ -11,11 +10,12 @@ const bot = new TelegraamApi(token,{polling:true})
      {command:'/info',description: 'info'},
      {command:'/huquqiy',description:'huquqiy asosi'},
  ])
-bot.setWebHook()
 
     bot.on('message', async msg=>{
 
-    const text =  msg.text;
+        console.log(msg);
+
+    const text =  msg.text
 
     const langs = {
         reply_to_message_id:msg.message_id,
@@ -46,11 +46,11 @@ bot.setWebHook()
         return bot.sendMessage(chatId,'Bot egasi @Eshturdiyev')
     }
     if (text ==='/start'){
-        bot.sendMessage(chatId, `Assalomu alaykum ${msg.from.first_name}. Bizning botga hush kelibsiz! \n Iltimos tilni tanlang👇`,langs);
+       return bot.sendMessage(chatId, `Assalomu alaykum ${msg.from.first_name}. Bizning botga hush kelibsiz! \n Iltimos tilni tanlang👇`,langs);
     }
     if (text ==='🇺🇿Uz'){
 
-        bot.sendMessage(chatId,'uzbek tiliga yaxshimi sizningcha',reja)
+       return bot.sendMessage(chatId,'uzbek tiliga yaxshimi sizningcha',reja)
         if (text==='Chiqish'){
 
         }
@@ -59,8 +59,8 @@ bot.setWebHook()
         return  bot.sendMessage(chatId,`Telegram nik-> ${msg.from.first_name} \n Human-> ${!msg.from.is_bot} \n Username->@${msg.from.username} \n Id->${msg.from.id}`)
     }
     if (text ==='/huquqiy'){
-         bot.sendMessage(chatId,'Huquqiy asosi bilan tanishing:')
-        return bot.sendDocument(chatId,'https://t.me/InfoCustomUz/24',{caption:"bobosher \n  jhdjkhjdfk \t dfjghkjfgh\tre\\erhejerdfj \j sdfnjdg"})
+        await bot.sendMessage(chatId,'Huquqiy asosi bilan tanishing:')
+        return bot.sendDocument(chatId,'https://t.me/InfoCustomUz/24',{caption:"Nomi: Pochta va kuryerlik \n"})
     }
 
 })
