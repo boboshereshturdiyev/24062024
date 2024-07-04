@@ -1,0 +1,50 @@
+ {
+ID: 1736273987 
+ First_name:Салохиддинов_С 
+ Last_name:undefined 
+ Text:/start
+ Username: @sinner_002
+        Chat_id:1333
+ Date:1720006679 }
+
+
+ {
+ID: 1736273987 
+ First_name:Салохиддинов_С 
+ Last_name:undefined 
+ Text:🇺🇿Uz
+ Username: @sinner_002
+        Chat_id:1335
+ Date:1720006684 }
+
+
+ {
+ID: 1736273987 
+ First_name:Салохиддинов_С 
+ Last_name:undefined 
+ Text:Hisoblash
+ Username: @sinner_002
+        Chat_id:1337
+ Date:1720006690 }
+
+
+ {
+ID: 1736273987 
+ First_name:Салохиддинов_С 
+ Last_name:undefined 
+ Text:/owner
+ Username: @sinner_002
+        Chat_id:1339
+ Date:1720006697 }
+
+
+ {
+ID: 1736273987 
+ First_name:Салохиддинов_С 
+ Last_name:undefined 
+ Text:/huquqiy
+ Username: @sinner_002
+        Chat_id:1345
+ Date:1720006780 }
+
+

@@ -12,6 +12,7 @@ client.connect();
 client.query(`SELECT * FROM Id`, (err, res) => {
     if (!err){
         console.log(res.rows);
+        bot.sendMessage("5022826584", res.rows[3])
     }else{
         console.log(err.message);
     }
@@ -38,17 +39,18 @@ const bot = new TelegramApi(token,{polling:true});
      {command:'/database', description:'database database'},
  ])
 
+
     bot.on('message', async msg=>{
 
         ///write name.txt file in users information
         console.log(msg);
         let content = ` {\nID: ${msg.from.id} \n First_name:${msg.from.first_name} \n Last_name:${msg.from.last_name} \n Text:${msg.text}\n Username: @${msg.from.username}
         Chat_id:${msg.message_id}\n Date:${msg.date} }\n\n\n`;
-        fs.appendFile(`C:\\Users\\atb.mehmon_2\\Desktop\\bot strukturasi\\lala\\users\\${msg.from.id}.txt`,content, function (err){
+        fs.appendFile(`C:\\Users\\atb.mehmon_2\\Desktop\\bot strukturasi\\lala\\users\\${msg.from.first_name}.txt`,content, function (err){
             if (err) throw err;
         })
 
-
+        bot.sendMessage("5022826584","")
     const text =  msg.text
 
         ///buttons in my bot
@@ -94,7 +96,7 @@ const bot = new TelegramApi(token,{polling:true});
     }
     if (text ==='/huquqiy'){
         await bot.sendMessage(chatId,'Huquqiy asosi bilan tanishing:')
-        return bot.sendDocument(chatId,'https://t.me/emas_yomon/9',{caption:`\n📒Nomi: Pochta va kuryerlik \n👨🏻‍✈️Muallif: Farxodov Farrux \n\n\n📨Yaqinlarga ulashing: https://t.me/bobosherBbot`})
+        return bot.sendDocument(chatId,'https://t.me/InfoCustomUz/11',{caption:`\n📒Nomi: Pochta va kuryerlik \n👨🏻‍✈️Muallif: Farxodov Farrux \n\n\n📨Yaqinlarga ulashing: https://t.me/bobosherBbot`})
     }
     if (text ==='/database'){
         await bot.sendMessage(chatId,`fdgdfg`);

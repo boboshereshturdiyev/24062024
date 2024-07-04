@@ -1,0 +1,40 @@
+ {
+ID: 6027567508 
+ First_name:🐼 
+ Last_name:undefined 
+ Text:/start
+ Username: @btrvnsvnch
+        Chat_id:1313
+ Date:1720004398 }
+
+
+ {
+ID: 6027567508 
+ First_name:🐼 
+ Last_name:undefined 
+ Text:🇺🇿Uz
+ Username: @btrvnsvnch
+        Chat_id:1315
+ Date:1720004404 }
+
+
+ {
+ID: 6027567508 
+ First_name:🐼 
+ Last_name:undefined 
+ Text:Hisoblash
+ Username: @btrvnsvnch
+        Chat_id:1317
+ Date:1720004406 }
+
+
+ {
+ID: 6027567508 
+ First_name:🐼 
+ Last_name:undefined 
+ Text:😵‍💫🤦🏻‍♀️
+ Username: @btrvnsvnch
+        Chat_id:1320
+ Date:1720004474 }
+
+

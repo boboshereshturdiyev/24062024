@@ -1,0 +1,170 @@
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/info
+ Username: @Eshturdiyev
+        Chat_id:1321
+ Date:1720004499 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1323
+ Date:1720006415 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1323
+ Date:1720006415 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1327
+ Date:1720006586 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1330
+ Date:1720006630 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1342
+ Date:1720006717 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1348
+ Date:1720007268 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1352
+ Date:1720007272 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1356
+ Date:1720007530 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1358
+ Date:1720007558 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1361
+ Date:1720011747 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1364
+ Date:1720011749 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1367
+ Date:1720072931 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1370
+ Date:1720072932 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1373
+ Date:1720072934 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1376
+ Date:1720075004 }
+
+
+ {
+ID: 5022826584 
+ First_name:Эштурдиев 
+ Last_name:Бобошер Ботирович 
+ Text:/huquqiy
+ Username: @Eshturdiyev
+        Chat_id:1379
+ Date:1720075032 }
+
+
